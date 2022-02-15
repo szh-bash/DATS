@@ -2,12 +2,11 @@
 layout: default
 ---
 # Translation of DATS
-> Author: Immortal.S
-> 
-> Language: Chinese(simplified) -> English
-> 
-> Version: 7.761
+> <p>Version: 7.761</p>
+> <p>Author: Immortal.S</p>
+> <p>Language: Chinese(simplified) -> English</p>
 
+------
 ## Farming
 - 开始 Start
 - 停止 Stop
@@ -33,6 +32,7 @@ layout: default
     - 信息 Information
     - Evolve Number(1~9) according to Evolution Slot
     - Example: Alphamon - 3 or 111, Omegamon X - 431 or 311
+
 #### 自动登录 - Login
 - 掉线重连 AutoRelogin
 - 游戏路径 DMOPath
@@ -170,6 +170,7 @@ layout: default
     - Failed
         - 不足
         - 失败
+
 #### 工具1 - Tool1
 - 加速 Accelerate
     - 快速回收扫描鉴定 Fast Scan/Return
@@ -209,6 +210,7 @@ layout: default
     - 转圈范围 radius
 - 自动换白色叶子 - Auto Exchange - auto exchange white lucky Leaf in FIW
     - 开始换 run
+
 #### 工具2 - Tool2
 - 自动孵化 - Auto Hatch - auto hatch until the specific level
     - 刷新背包蓝蛋 - get egg - Refresh the digiegg list of your inventory
@@ -255,6 +257,7 @@ layout: default
     - 开启无动作 - noAction on - easy to use asb
     - 关闭无动作 - noAction off 
     - 穿墙 - through wall - enable to across the wall in game, need to change map after click the button to activate the function
+
 ### 回话 - Reply
 - Reply random sentence below when someone whisper you
 - 添加 add
@@ -280,6 +283,7 @@ layout: default
     - Choose "开启自动追BOSS - auto boss"
     - Adjust settings
     - Click "开始 - start" start botting
+
 ### 寻路 - Portal
 - 寻路方式 Jumping Between Maps
     - 炸弹传送 Booster
@@ -301,8 +305,8 @@ layout: default
 
 ### 日志 - Log
 
-------
 
+------
 ## Dungeon
 
 ### 基本 - Base
@@ -357,6 +361,7 @@ layout: default
 - Buff or Exp Items
 - IC Skill
     - interval 45 sec.
+
 ### 组队 - Party
 - 开启组队功能 auto party (party member need to set same channel)
 - Party Obtain Method
@@ -374,10 +379,12 @@ layout: default
     - keep blank if not required
 - 队伍人数 At least x tamer enter the dungeon
     - keep blank if not required
+
 ### 回话 - Reply
 - Reply random sentence below when someone whisper you
 - 添加 add
 - 删除 remove
+
 ### 寻路 - Portal
 - 寻路方式 Jumping Between Maps
     - 炸弹传送 Booster
@@ -390,4 +397,5 @@ layout: default
     - 获取背包炸弹 get booster
     - 挂机时点击立即回城消疲劳 recover fatigue now
     - 脱衣服消除疲劳后，吃药 3 - uncloth, recover item 3
+
 ### 日志 - Log
