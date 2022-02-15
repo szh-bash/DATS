@@ -22,12 +22,13 @@ title: DATS
 email: x799927254@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   DATS is an auto-program that can play DMO continuously
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/DATS" # the subpath of your site, e.g. /blog
+url: "szh-bash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  szh-bash
 author: Immortal.S
 author_url: https://github.com/szh-bash
+google_analytics: G-Q0B9W70VGJ
 
 # Build settings
 theme: minima
