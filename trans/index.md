@@ -3,8 +3,7 @@ layout: default
 ---
 # Translation of DATS
 > <p>Version: 7.761</p>
-> <p>Author: Immortal.S</p>
-> <p>Language: Chinese(simplified) -> English</p>
+> <p>Chinese(simplified) -> English</p>
 
 - [Translation of DATS](#translation-of-dats)
   - [Farming](#farming)
